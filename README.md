@@ -1,4 +1,4 @@
-# ShieldLayer: DDoS Mitigation Middleware for Node.js Applications
+# ShieldLayer: DDoS Mitigation Middleware for Applications
 
 ## 1. Introduction
 With the increasing dependency on web applications, security has become a major concern. One of the most common threats is Distributed Denial of Service (DDoS) attacks, where attackers flood a server with requests to make it unavailable to legitimate users.
